@@ -1,4 +1,4 @@
-## 前言：
+![image](https://github.com/user-attachments/assets/7097d0d9-60ea-4e22-93f8-1828e7cadc60)## 前言：
 
 集合了六十多个工具，有师傅说需要，特搞来，我是脚本小子我爱用
 
@@ -145,4 +145,9 @@ vshell4.9.1
 如果遇到启动后进入命令行，再次重启即可
 
 ### 下载链接：
+https://pan.baidu.com/s/1eNOWvejHIjv5BGMfVDq1IA?pwd=tsg4
+
+![image](https://github.com/user-attachments/assets/ad000e1a-7036-4bc5-9ca1-8e605fca2c29)
+
+
 
